@@ -62,7 +62,7 @@ The global Content Delivery Network (CDN) market size is estimated at **$28.5 Bi
 
 The open-source ecosystem shines at **log processing, self-hosted web analytics, and full-text log aggregation layers**. While self-hosted open-source software cannot replace a global edge network, these tools allow companies to ingest, parse, search, and visualize CDN log exports (Logpush, S3, Syslog) cost-effectively.
 
-*Note: Projects are sorted by GitHub Star Count in descending order.*
+*Note: Projects are sorted by GitHub Stars_Count in descending order.*
 
 ### 🛠️ Open-Source Observability & Log Analytics Repositories
 
